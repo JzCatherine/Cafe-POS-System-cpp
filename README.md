@@ -1,2 +1,3 @@
 # Cafe-POS-System-cpp
-ITE001 Computer Programming 1 Project | 1st Year
+ITE001 Computer Programming 1 Project <br>
+Output: Terminal (no GUI)
